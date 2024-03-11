@@ -2,7 +2,7 @@
 ## Projeto Bootstrap de vendas de cursos de gastronomia
 
 # Sobre o Projeto:
-Esse é um projeto de uma escola de gastronomia, que tem 4 páginas: uma home, cursos, matricula e um modal de contato.
+- Esse é um projeto de uma escola de gastronomia, que tem 4 páginas: uma home, cursos, matricula e um modal de contato.
 
 # Linguagens:
 - HTML
