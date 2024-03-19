@@ -1,4 +1,4 @@
-# Projeto Escola
+# 🍽️ Projeto Escola 🍽️
 ## Projeto Bootstrap de vendas de cursos de Gastronomia
 
 # Sobre o Projeto:
